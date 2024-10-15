@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5dO9gSjH8wB" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Tantalum Academy's Immersive Learning</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Tantalum_Academy's_Immersive_Learning_ORG">
+    <organization identifier="Tantalum_Academy's_Immersive_Learning_ORG">
+      <title>Tantalum Academy's Immersive Learning</title>
+      <item identifier="Tantalum_Academy's_Immersive_Learning_SCO" isvisible="true" identifierref="__5dO9gSjH8wB_RES">
+        <title>Tantalum Academy's Immersive Learning</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5dO9gSjH8wB_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6RhZN9ihF7N.png" />
+      <file href="mobile/5dHfn00oeJo.png" />
+      <file href="mobile/6DYnt3qPu5g.png" />
+      <file href="mobile/5vocye200s3.png" />
+      <file href="mobile/5mJ0U77phcw.png" />
+      <file href="mobile/6dO0UFq3oeZ.png" />
+      <file href="mobile/5e2DomsxRCt.png" />
+      <file href="mobile/5Z0YeopXymw.png" />
+      <file href="mobile/6jsooDyENeN.png" />
+      <file href="mobile/627sKmX97OP.png" />
+      <file href="mobile/6lyXQ20cYYN.png" />
+      <file href="story_content/6RJk324Gif8_44100_56_0.mp3" />
+      <file href="story_content/6K1UMI11Mpz_captions.js" />
+      <file href="story_content/video_5ff5Zd6SJkY_24_56_840x472.mp4" />
+      <file href="mobile/poster_6XuDCNTRtNZ_video_5ff5Zd6SJkY_24_56_840x472.jpg" />
+      <file href="mobile/6XZHYWNyAAz.png" />
+      <file href="mobile/5aJhl84OQwT.png" />
+      <file href="mobile/61hyfTwrlEG.png" />
+      <file href="mobile/6NWwwnoIkTA.png" />
+      <file href="mobile/6B9poxDzesq.png" />
+      <file href="mobile/6cFXDj71iVO.png" />
+      <file href="mobile/63uv2k6R7S4.png" />
+      <file href="mobile/68Cx3dZUx8r.png" />
+      <file href="mobile/5ltaNB4CCMv.png" />
+      <file href="mobile/5X9wSYnPbUu.png" />
+      <file href="story_content/6g7hBXrvQq2_44100_56_0.mp3" />
+      <file href="story_content/5p79C1mKlAv_captions.js" />
+      <file href="story_content/video_5qcLY6ufztP_24_56_840x472.mp4" />
+      <file href="mobile/poster_5npndTylcMm_video_5qcLY6ufztP_24_56_840x472.jpg" />
+      <file href="mobile/6C6rJkmmg0g.png" />
+      <file href="story_content/video_6rF3cQFXTnG_24_56_840x472.mp4" />
+      <file href="mobile/poster_6VcoAEzDhiG_video_6rF3cQFXTnG_24_56_840x472.jpg" />
+      <file href="story_content/6W7rRNsvr6G_44100_56_0.mp3" />
+      <file href="story_content/6YbERzL1fX0_captions.js" />
+      <file href="story_content/video_6FIa5KipjCK_24_56_840x472.mp4" />
+      <file href="mobile/poster_5nmTa2LMDPb_video_6FIa5KipjCK_24_56_840x472.jpg" />
+      <file href="story_content/60PBarOBu4e_44100_56_0.mp3" />
+      <file href="story_content/6ICaFJElnDE_captions.js" />
+      <file href="story_content/video_6Oo4aYs5wKj_24_56_840x472.mp4" />
+      <file href="mobile/poster_5VFimdiQ6dt_video_6Oo4aYs5wKj_24_56_840x472.jpg" />
+      <file href="story_content/6h75GAVTsXx_44100_56_0.mp3" />
+      <file href="story_content/61P5rQ8Ggok_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6C98QMeTKd1.png" />
+      <file href="mobile/Shape6BPoGslNGtY.png" />
+      <file href="mobile/Shape6oRZUV85qom.png" />
+      <file href="mobile/Shape6ZGTUH9EZ74.png" />
+      <file href="mobile/Shape5ZWwjk6mhoj.png" />
+      <file href="mobile/Shape5m9thWvIhBc.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5abGe5WDgU0.js" />
+      <file href="html5/data/js/5auuehv3dgY.js" />
+      <file href="html5/data/js/5gjv8OStNHQ.js" />
+      <file href="html5/data/js/5h4hzwPHdFA.js" />
+      <file href="html5/data/js/5jomXgUoWRw.js" />
+      <file href="html5/data/js/5oiEt5g7eM5.js" />
+      <file href="html5/data/js/62WN6pIDm4M.js" />
+      <file href="html5/data/js/6ALs7xDv7dA.js" />
+      <file href="html5/data/js/6EOS5gj4PwH.js" />
+      <file href="html5/data/js/6fVQdOpoXFW.js" />
+      <file href="html5/data/js/6IqxvzXTmi9.js" />
+      <file href="html5/data/js/6KUbImlKmNd.js" />
+      <file href="html5/data/js/6QqzLkF7ar7.js" />
+      <file href="html5/data/js/6SpAPeP0kmp.js" />
+      <file href="html5/data/js/6TFipSJpXVk.js" />
+      <file href="html5/data/js/6TTV7fJpdxL.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
